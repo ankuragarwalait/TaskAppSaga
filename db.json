@@ -1,0 +1,32 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn React",
+      "description": "Learn React",
+      "status": "Completed",
+      "duration": 16
+    },
+    {
+      "id": 2,
+      "title": "Learn Redux",
+      "description": "Learn Redux",
+      "status": "In Progress",
+      "duration": 9
+    },
+    {
+      "id": 3,
+      "title": "Learn Saga",
+      "description": "Learn Saga",
+      "status": "Completed",
+      "duration": 17
+    },
+    {
+      "id": 4,
+      "title": "Bro",
+      "description": "Bro",
+      "status": "Not Started",
+      "duration": 7
+    }
+  ]
+}
